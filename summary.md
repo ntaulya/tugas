@@ -6,3 +6,5 @@
 # Biasanya ketika ingin berkolaborasi bersama team, para developer membuat branch pribadi sebagai playground mereka
 # Ketika pengerjaan dalam branch pribadi telah selesai kita dapat merge (menggabungkan) pekerjaan kita secara bersama-sama di main
 # Hasil code di main adalah code final yang bisanya sudah diuji coba tanpa adanya error atau bug
+
+Untuk pengerjaan tugas 2 kali ini saya membuat folder (praktikum) untuk menyimpan word pengerjaan, dan hasil screenshoot dalam folder (screenshoot)
